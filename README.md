@@ -1,1 +1,2 @@
 # Pixelclient-multiver
+Pixelclient-multiver is a pixelclient foor eaglercraft that has 1.8.8 JS 1.12.2 JS and both WASM-GC Versions, and is being used as an embed for eagloader.daboizco.2bd.net at /clients/pixel/AV
